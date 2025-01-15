@@ -32,3 +32,4 @@ grades_4 = [1, 2, 3, 4, 5]
 assert calculate_average(grades_4) == 3.0, "Тест 4 не прошел"
 
 print("Все тесты пройдены успешно!")
+//123
